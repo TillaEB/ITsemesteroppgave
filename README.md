@@ -1,1 +1,1 @@
-# ITsemesteroppgave
+# IT semesteroppgave
